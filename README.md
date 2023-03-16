@@ -1,4 +1,4 @@
-#Scrum Master Portfolio Example
+# Scrum Master Portfolio Example
 ## Sekcja 'O mnie' - About
 TBC
 ## Wyksztalcenie - Education
@@ -11,18 +11,18 @@ TBC
 ..
 
 
-##Doswiadczenie - Experience
-###### Obowjazki
-###### Zespoly
-###### Projekty
-###### Skills
-###### Narzędzia - Tools 
-###### Conducted Workshops and Trainings
-###### Inicjatywy
+## Doswiadczenie - Experience
+### Obowjazki
+### Zespoly
+### Projekty
+### Skills
+### Narzędzia - Tools 
+### Conducted Workshops and Trainings
+### Inicjatywy
 
 ## Kursy i szkolenia - Courses / Workshops/ Trainings / Webinars / Etc.
 
 ## Learning
-###### Ksiazki
-###### Grupy
-###### Blogi, strony tematyczne
+### Ksiazki
+### Grupy
+### Blogi, strony tematyczne
