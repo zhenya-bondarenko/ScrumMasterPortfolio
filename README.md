@@ -23,6 +23,7 @@ Certified SAFe 5 Agilist, Expires Sep 3, 2023
 
 </details>
 
+<details>
 <summary>PSM</summary>
 PSMI - Professional Scrum Master I, www.scrum.org, Issued Jan 2021
 </details>
