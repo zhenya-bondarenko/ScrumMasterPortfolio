@@ -2,7 +2,9 @@
 ## Sekcja 'O mnie' - About
 TBC
 ## Wyksztalcenie - Education
-..
+Donetsk National Technical University, Computer Science, Masters
+1997 - 2021
+
 ## Certyfukaty - Certificates
 ..
 ## Doswiadczenie zawodowe - Career
