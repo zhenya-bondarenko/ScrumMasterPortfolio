@@ -47,7 +47,8 @@ PSMI - Professional Scrum Master I, www.scrum.org, Issued Jan 2021
 <details>
 Udemy
 </details>
+
 ## Learning
-### Ksiazki
-### Grupy
-### Blogi, strony tematyczne
+<details> Ksiazki </details>
+<details> Grupy </details>
+<details> Blogi, strony tematyczne </details>
