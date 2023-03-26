@@ -15,11 +15,11 @@ Donetsk National Technical University, Computer Science, Masters
 
 ![SAFe Logo](1668017354645.jfif)
 
-Certified SAFe 5 Advanced Scrum Master, Expires Apr 3, 2024
+**Certified SAFe 5 Advanced Scrum Master**, Expires Apr 3, 2024
 
-Certified SAFe 5 Lean Portfolio Manager, Expires Jan 2, 2024
+**Certified SAFe 5 Lean Portfolio Manager**, Expires Jan 2, 2024
 
-Certified SAFe 5 Agilist, Expires Sep 3, 2023
+**Certified SAFe 5 Agilist**, Expires Sep 3, 2023
 
 </details>
 
@@ -44,7 +44,9 @@ PSMI - Professional Scrum Master I, www.scrum.org, Issued Jan 2021
 ### Inicjatywy
 
 ## Kursy i szkolenia - Courses / Workshops/ Trainings / Webinars / Etc.
-
+<details>
+Udemy
+</details>
 ## Learning
 ### Ksiazki
 ### Grupy
